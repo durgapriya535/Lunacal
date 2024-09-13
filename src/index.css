@@ -52,6 +52,3 @@ body {
   scrollbar-color: #a0aec0 #4a5568; /* Firefox scrollbar colors */
 }
 /* Define both vendor-prefixed and standard properties */
--webkit-appearance: none;
--moz-appearance: none;
-appearance: none;
